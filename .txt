@@ -1,0 +1,7 @@
+Build a <MainGoal> component and insert it below this text.
+
+Your <MainGoal> component should simply output some text that describes your main course goal (e.g., "My main goal: Learn React in great detail").
+
+Important: You custom component must contain the text "My main goal:"
+
+Also important: For the automatic checks to succeed, you must export your custom component function! Not as a default but simply by adding the export keyword in front of your function (e.g., export function YOUR_COMPONENT_NAME).
